@@ -6,8 +6,6 @@
 :source-highlighter: pygments
 :pygments-linenums-mode: inline
 
-This repository was set up for the Climate modelling course at TU Dresden. It contains the slides for the lecture on how to install and use CDO and some example _NetCDF_ files.
+This repository was set up for the Climate Modelling course at TU Dresden, but would be glad if it reaches someone else who needs it. It contains the slides for the lecture on how to install and use CDO and some example _NetCDF_ files. Feel free to contact mailto:{my_email}[me].
 
 The presentation can be seen https://dquesadacr.github.io/cdo_climate_modelling/[here]. Type `?` for tips on the navigation.
-
-Feel free to contact me: mailto:{my_email}[{my_name}]
