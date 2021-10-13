@@ -10,4 +10,6 @@ This repository was set up for the Climate modelling course at TU Dresden. It co
 
 The presentation can be seen https://dquesadacr.github.io/cdo_climate_modelling/[here]. Type `?` for tips on the navigation.
 
+This document repository was first created in October 2020 and updated the 13^th^ October of 2021.
+
 Feel free to contact me: mailto:{my_email}[{my_name}]
